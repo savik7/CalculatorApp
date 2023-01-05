@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CalculatorApp</string>
+    <string name="num1">Введите число 1:</string>
+    <string name="num2">Введите число 2:</string>
+    <string name="operation">Введите оперцию:</string>
+    <string name="result">Посчитать результат</string>
+    <string name="viewResult">Результат:</string>
 </resources>
